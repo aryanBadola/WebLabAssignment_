@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #90c1d2;
+}
+
+.logo {
+    width: 90px;
+    height: 90px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.header {
+    background-color: #1095dc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    display: block;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.leftside {
+    float: left;
+    background-color: #10c1dc;
+    height: 900px;
+    width: 170px;
+
+}
+
+.body {
+    margin-left: 200px;
+}
+
+.rightside {
+    float: right;
+    background-color: #10a6dc;
+    height: 900px;
+    width: 170px;
+}
